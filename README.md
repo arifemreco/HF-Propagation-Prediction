@@ -17,3 +17,5 @@ Arif Emre Çoban
 Bachelor's Thesis Project
 
 HF Propagation Prediction Using Machine Learning
+
+This repository is provided for academic and educational purposes.
